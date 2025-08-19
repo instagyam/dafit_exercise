@@ -1,0 +1,145 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "Push Ups",
+      "instruction": [
+        { "id": "1", "description": "Start in a plank position with arms straight." },
+        { "id": "2", "description": "Lower your chest to the floor by bending elbows." },
+        { "id": "3", "description": "Push back up to starting position." }
+      ],
+      "gifurl": "https://example.com/gif/pushups.gif",
+      "useful_muscle": "Chest, Triceps, Shoulders",
+      "gender_type": "male",
+      "remark": "Classic bodyweight exercise.",
+      "current_page_link": "https://example.com/exercises/pushups"
+    },
+    {
+      "id": "2",
+      "name": "Squats",
+      "instruction": [
+        { "id": "1", "description": "Stand with feet shoulder-width apart." },
+        { "id": "2", "description": "Bend knees and lower hips as if sitting back." },
+        { "id": "3", "description": "Return to standing position." }
+      ],
+      "gifurl": "https://example.com/gif/squats.gif",
+      "useful_muscle": "Quadriceps, Glutes, Hamstrings",
+      "gender_type": "female",
+      "remark": "Great for lower body strength.",
+      "current_page_link": "https://example.com/exercises/squats"
+    },
+    {
+      "id": "3",
+      "name": "Plank",
+      "instruction": [
+        { "id": "1", "description": "Lie face down and lift onto forearms and toes." },
+        { "id": "2", "description": "Keep body straight and core tight." },
+        { "id": "3", "description": "Hold for desired time." }
+      ],
+      "gifurl": "https://example.com/gif/plank.gif",
+      "useful_muscle": "Core, Shoulders, Back",
+      "gender_type": "other",
+      "remark": "Improves core stability.",
+      "current_page_link": "https://example.com/exercises/plank"
+    },
+    {
+      "id": "4",
+      "name": "Lunges",
+      "instruction": [
+        { "id": "1", "description": "Stand upright with feet together." },
+        { "id": "2", "description": "Step forward with one leg and lower hips." },
+        { "id": "3", "description": "Push back to starting position." }
+      ],
+      "gifurl": "https://example.com/gif/lunges.gif",
+      "useful_muscle": "Quads, Glutes, Hamstrings",
+      "gender_type": "female",
+      "remark": "Helps balance and leg strength.",
+      "current_page_link": "https://example.com/exercises/lunges"
+    },
+    {
+      "id": "5",
+      "name": "Bicep Curls",
+      "instruction": [
+        { "id": "1", "description": "Stand with dumbbells in each hand." },
+        { "id": "2", "description": "Curl dumbbells up while keeping elbows tucked." },
+        { "id": "3", "description": "Slowly lower to starting position." }
+      ],
+      "gifurl": "https://example.com/gif/bicepcurls.gif",
+      "useful_muscle": "Biceps",
+      "gender_type": "male",
+      "remark": "Isolates arm muscles.",
+      "current_page_link": "https://example.com/exercises/bicepcurls"
+    },
+    {
+      "id": "6",
+      "name": "Mountain Climbers",
+      "instruction": [
+        { "id": "1", "description": "Start in plank position." },
+        { "id": "2", "description": "Drive one knee towards chest quickly." },
+        { "id": "3", "description": "Alternate legs rapidly." }
+      ],
+      "gifurl": "https://example.com/gif/mountainclimbers.gif",
+      "useful_muscle": "Core, Shoulders, Legs",
+      "gender_type": "other",
+      "remark": "Good for cardio and core.",
+      "current_page_link": "https://example.com/exercises/mountainclimbers"
+    },
+    {
+      "id": "7",
+      "name": "Jumping Jacks",
+      "instruction": [
+        { "id": "1", "description": "Stand with feet together, arms at sides." },
+        { "id": "2", "description": "Jump and spread legs while raising arms overhead." },
+        { "id": "3", "description": "Return to starting position." }
+      ],
+      "gifurl": "https://example.com/gif/jumpingjacks.gif",
+      "useful_muscle": "Full body, Cardio",
+      "gender_type": "male",
+      "remark": "Good warm-up exercise.",
+      "current_page_link": "https://example.com/exercises/jumpingjacks"
+    },
+    {
+      "id": "8",
+      "name": "Crunches",
+      "instruction": [
+        { "id": "1", "description": "Lie on back with knees bent." },
+        { "id": "2", "description": "Place hands behind head." },
+        { "id": "3", "description": "Lift shoulders towards knees." }
+      ],
+      "gifurl": "https://example.com/gif/crunches.gif",
+      "useful_muscle": "Abs",
+      "gender_type": "female",
+      "remark": "Focus on upper abs.",
+      "current_page_link": "https://example.com/exercises/crunches"
+    },
+    {
+      "id": "9",
+      "name": "Burpees",
+      "instruction": [
+        { "id": "1", "description": "Start standing." },
+        { "id": "2", "description": "Drop into push-up position." },
+        { "id": "3", "description": "Jump back to standing and leap upwards." }
+      ],
+      "gifurl": "https://example.com/gif/burpees.gif",
+      "useful_muscle": "Full body, Cardio",
+      "gender_type": "male",
+      "remark": "High-intensity workout.",
+      "current_page_link": "https://example.com/exercises/burpees"
+    },
+    {
+      "id": "10",
+      "name": "Leg Raises",
+      "instruction": [
+        { "id": "1", "description": "Lie flat on your back." },
+        { "id": "2", "description": "Lift both legs to 90 degrees." },
+        { "id": "3", "description": "Lower slowly without touching the ground." }
+      ],
+      "gifurl": "https://example.com/gif/legraises.gif",
+      "useful_muscle": "Lower Abs, Hip Flexors",
+      "gender_type": "other",
+      "remark": "Strengthens lower core.",
+      "current_page_link": "https://example.com/exercises/legraises"
+    }
+  ],
+  "next_page": "end"
+}
