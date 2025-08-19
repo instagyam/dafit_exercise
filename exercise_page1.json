@@ -8,7 +8,7 @@
         { "id": "2", "description": "Lower your chest to the floor by bending elbows." },
         { "id": "3", "description": "Push back up to starting position." }
       ],
-      "gifurl": "https://example.com/gif/pushups.gif",
+      "gifurl": "https://www.inspireusafoundation.org/file/2022/11/push-up.gif",
       "useful_muscle": "Chest, Triceps, Shoulders",
       "gender_type": "male",
       "remark": "Classic bodyweight exercise.",
@@ -36,7 +36,7 @@
         { "id": "2", "description": "Keep body straight and core tight." },
         { "id": "3", "description": "Hold for desired time." }
       ],
-      "gifurl": "https://example.com/gif/plank.gif",
+      "gifurl": "https://www.inspireusafoundation.org/file/2022/11/body-saw-plank.gif",
       "useful_muscle": "Core, Shoulders, Back",
       "gender_type": "other",
       "remark": "Improves core stability.",
@@ -50,7 +50,7 @@
         { "id": "2", "description": "Step forward with one leg and lower hips." },
         { "id": "3", "description": "Push back to starting position." }
       ],
-      "gifurl": "https://example.com/gif/lunges.gif",
+      "gifurl": "https://www.inspireusafoundation.org/file/2023/07/bodyweight-forward-lunge.gif",
       "useful_muscle": "Quads, Glutes, Hamstrings",
       "gender_type": "female",
       "remark": "Helps balance and leg strength.",
@@ -64,7 +64,7 @@
         { "id": "2", "description": "Curl dumbbells up while keeping elbows tucked." },
         { "id": "3", "description": "Slowly lower to starting position." }
       ],
-      "gifurl": "https://example.com/gif/bicepcurls.gif",
+      "gifurl": "https://www.inspireusafoundation.org/file/2023/04/overhead-extension-bicep-stretch.gif",
       "useful_muscle": "Biceps",
       "gender_type": "male",
       "remark": "Isolates arm muscles.",
@@ -78,7 +78,7 @@
         { "id": "2", "description": "Drive one knee towards chest quickly." },
         { "id": "3", "description": "Alternate legs rapidly." }
       ],
-      "gifurl": "https://example.com/gif/mountainclimbers.gif",
+      "gifurl": "https://www.inspireusafoundation.org/file/2022/04/military-press.gif",
       "useful_muscle": "Core, Shoulders, Legs",
       "gender_type": "other",
       "remark": "Good for cardio and core.",
@@ -92,7 +92,7 @@
         { "id": "2", "description": "Jump and spread legs while raising arms overhead." },
         { "id": "3", "description": "Return to starting position." }
       ],
-      "gifurl": "https://example.com/gif/jumpingjacks.gif",
+      "gifurl": "https://www.inspireusafoundation.org/file/2021/08/jumping-jacks.gif",
       "useful_muscle": "Full body, Cardio",
       "gender_type": "male",
       "remark": "Good warm-up exercise.",
