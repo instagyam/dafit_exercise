@@ -12,7 +12,11 @@
       "useful_muscle": "Chest, Triceps, Shoulders",
       "gender_type": "male",
       "remark": "Classic bodyweight exercise.",
-      "current_page_link": "https://example.com/exercises/pushups"
+      "current_page_link": "https://example.com/exercises/pushups",
+      "duration": 60,
+      "sets": 3,
+      "reps": 15,
+      "met": 8.0
     },
     {
       "id": "2",
@@ -26,7 +30,11 @@
       "useful_muscle": "Quadriceps, Glutes, Hamstrings",
       "gender_type": "female",
       "remark": "Great for lower body strength.",
-      "current_page_link": "https://example.com/exercises/squats"
+      "current_page_link": "https://example.com/exercises/squats",
+      "duration": 90,
+      "sets": 3,
+      "reps": 20,
+      "met": 5.0
     },
     {
       "id": "3",
@@ -40,7 +48,11 @@
       "useful_muscle": "Core, Shoulders, Back",
       "gender_type": "other",
       "remark": "Improves core stability.",
-      "current_page_link": "https://example.com/exercises/plank"
+      "current_page_link": "https://example.com/exercises/plank",
+      "duration": 60,
+      "sets": 3,
+      "reps": 1,
+      "met": 3.0
     },
     {
       "id": "4",
@@ -54,7 +66,11 @@
       "useful_muscle": "Quads, Glutes, Hamstrings",
       "gender_type": "female",
       "remark": "Helps balance and leg strength.",
-      "current_page_link": "https://example.com/exercises/lunges"
+      "current_page_link": "https://example.com/exercises/lunges",
+      "duration": 60,
+      "sets": 3,
+      "reps": 12,
+      "met": 4.5
     },
     {
       "id": "5",
@@ -68,7 +84,11 @@
       "useful_muscle": "Biceps",
       "gender_type": "male",
       "remark": "Isolates arm muscles.",
-      "current_page_link": "https://example.com/exercises/bicepcurls"
+      "current_page_link": "https://example.com/exercises/bicepcurls",
+      "duration": 60,
+      "sets": 3,
+      "reps": 15,
+      "met": 3.5
     },
     {
       "id": "6",
@@ -82,7 +102,11 @@
       "useful_muscle": "Core, Shoulders, Legs",
       "gender_type": "other",
       "remark": "Good for cardio and core.",
-      "current_page_link": "https://example.com/exercises/mountainclimbers"
+      "current_page_link": "https://example.com/exercises/mountainclimbers",
+      "duration": 45,
+      "sets": 4,
+      "reps": 20,
+      "met": 8.0
     },
     {
       "id": "7",
@@ -96,7 +120,11 @@
       "useful_muscle": "Full body, Cardio",
       "gender_type": "male",
       "remark": "Good warm-up exercise.",
-      "current_page_link": "https://example.com/exercises/jumpingjacks"
+      "current_page_link": "https://example.com/exercises/jumpingjacks",
+      "duration": 60,
+      "sets": 3,
+      "reps": 30,
+      "met": 8.0
     },
     {
       "id": "8",
@@ -110,7 +138,11 @@
       "useful_muscle": "Abs",
       "gender_type": "female",
       "remark": "Focus on upper abs.",
-      "current_page_link": "https://example.com/exercises/crunches"
+      "current_page_link": "https://example.com/exercises/crunches",
+      "duration": 45,
+      "sets": 3,
+      "reps": 20,
+      "met": 4.0
     },
     {
       "id": "9",
@@ -124,7 +156,11 @@
       "useful_muscle": "Full body, Cardio",
       "gender_type": "male",
       "remark": "High-intensity workout.",
-      "current_page_link": "https://example.com/exercises/burpees"
+      "current_page_link": "https://example.com/exercises/burpees",
+      "duration": 60,
+      "sets": 3,
+      "reps": 12,
+      "met": 10.0
     },
     {
       "id": "10",
@@ -138,7 +174,11 @@
       "useful_muscle": "Lower Abs, Hip Flexors",
       "gender_type": "other",
       "remark": "Strengthens lower core.",
-      "current_page_link": "https://example.com/exercises/legraises"
+      "current_page_link": "https://example.com/exercises/legraises",
+      "duration": 60,
+      "sets": 3,
+      "reps": 15,
+      "met": 3.5
     }
   ],
   "next_page": "end"
